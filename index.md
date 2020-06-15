@@ -1,6 +1,6 @@
 ## Welcome to Quang Loc Tran's Pages
 
-My paper [PDF](paper.pdf)
+My paper [PDF](essay.pdf)
 
 ### Markdown
 
